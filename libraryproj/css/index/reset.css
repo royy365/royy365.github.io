@@ -1,0 +1,18 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, em, p, font,
+img, small, strong, center, dl, dt, dd, ol, ul, li, form, label, table, caption,
+tbody, tr, th, td {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+}
+ol, ul {
+    list-style-type: none;
+}
+.left{float:left}
+.right{float:right}
+.clearfix{
+    content: "";
+    display: block;
+    clear:both;
+}
